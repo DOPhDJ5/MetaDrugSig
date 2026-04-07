@@ -1,5 +1,7 @@
 # MetaDrugSig
 
+Download data files from Zenodo (https://doi.org/10.5281/zenodo.19154955) and place in data/ directory before running.
+
 **A heterogeneity-aware transcriptomic drug signature database**
 
 REML random-effects meta-analysis of 1,092 drugs across 6,663 independent RNA-seq comparisons from 3,683 GEO studies, with gene-level uncertainty quantification and the MDS signature framework for heterogeneity-aware gene selection.
@@ -70,6 +72,7 @@ Three gene selection filters of increasing stringency:
 | Tier 2 | Single comparison | 536 | edgeR differential expression |
 
 ---
+
 
 ## Citation
 

@@ -47,7 +47,7 @@ source("requirements.R")
 # Place data files in MetaDrugSig_app/data/ (download from Zenodo)
 # Then run:
 setwd("MetaDrugSig_app/")
-shiny::runApp("app.R")
+shiny::runApp("shiny_app/app.R")
 ```
 
 ---

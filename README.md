@@ -12,7 +12,7 @@ REML random-effects meta-analysis of 1,092 drugs across 6,663 independent RNA-se
 
 Full database available on Zenodo:  
 **https://doi.org/10.5281/zenodo.19154955**
-
+Download all the files and unzip the folder. Rename the folder "data".
 ### Gene-by-drug matrices (63,474 genes × 1,092 drugs)
 
 | File | Description |

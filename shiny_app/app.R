@@ -10,12 +10,12 @@ library(msigdbr)
 # ============================================================
 # PATHS
 # ============================================================
-LOGFC_PATH  <- "data/drug_signatures_logFC.csv"
-FDR_PATH    <- "data/drug_signatures_FDR.csv"
-SE_PATH     <- "data/drug_signatures_SE.csv"
-META_PATH   <- "data/drug_metadata_v3.csv"
-COMP_META   <- "data/comparison_metadata_v3.csv"
-PERGSE_ROOT <- "data/per_GSE"
+LOGFC_PATH  <- "../data/drug_signatures_logFC.csv"
+FDR_PATH    <- "../data/drug_signatures_FDR.csv"
+SE_PATH     <- "../data/drug_signatures_SE.csv"
+META_PATH   <- "../data/drug_metadata_v3.csv"
+COMP_META   <- "../data/comparison_metadata_v3.csv"
+PERGSE_ROOT <- "../data/per_GSE"
 ZENODO_URL  <- "https://doi.org/10.5281/zenodo.19154955"
 
 MIN_STUDIES_TOTAL    <- 3

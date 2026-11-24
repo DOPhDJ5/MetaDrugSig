@@ -1,0 +1,26 @@
+drug_id,drug_name,why
+DB04942,tamibarotene,only 2 GSEs after QC
+DB01296,glucosamine,only 2 GSEs after QC
+DB01101,capecitabine,only 2 GSEs after QC
+DB00761,potassium_chloride,only 2 GSEs after QC
+DB00679,thioridazine,only 1 GSEs after QC
+DB04974,rimiducid,only 2 GSEs after QC
+DB00993,azathioprine,only 2 GSEs after QC
+DB01039,fenofibrate,only 2 GSEs after QC
+DB11747,barasertib,only 2 GSEs after QC
+DB00668,epinephrine,only 1 GSEs after QC
+DB13366,hydrochloric_acid,only 2 GSEs after QC
+DB13373,acriflavine,only 2 GSEs after QC
+DB14933,nicotinamide_riboside,only 2 GSEs after QC
+DB14680,combretastatin_a4,only 1 GSEs after QC
+DB00305,mitomycin,only 1 GSEs after QC
+DB05928,dovitinib,only 2 GSEs after QC
+DB15569,sotorasib,no evaluable folds
+DB05611,apilimod,only 2 GSEs after QC
+DB00470,dronabinol,only 1 GSEs after QC
+DB11958,brivanib,only 2 GSEs after QC
+DB00811,ribavirin,only 2 GSEs after QC
+DB00244,mesalazine,only 2 GSEs after QC
+DB00142,glutamic_acid,only 2 GSEs after QC
+DB08059,wortmannin,only 1 GSEs after QC
+DB00197,troglitazone,only 2 GSEs after QC
